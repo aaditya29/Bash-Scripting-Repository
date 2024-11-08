@@ -14,6 +14,6 @@ To get started with Bash scripting, you need to have a Unix-like operating syste
 bash --version
 ```
 
-## Contributing
+## Contribution
 
 Contributions are welcome! If you have a Bash script that you would like to share, please fork this repository, add your script, and submit a pull request. Make sure to follow the existing file structure and include a brief description of your script.
